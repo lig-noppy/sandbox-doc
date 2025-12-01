@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com",
+  "extensions": [
+    "hediet.vscode-drawio"
+  ]
+}
