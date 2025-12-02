@@ -54,8 +54,9 @@ PlantUML.com経由で画像化・表示は可能
 
 他2種と比べて自由度が非常に高い。
 ⚠️Mermaid.js, PlantUMLと比べるとAIとの相性(特に読み取り)は格段に落ちる(と思う)
-・読み取りトークン数がxmlで20倍、画像だとさらに大きいかも？
-・XMLで読ませても自由度の高さゆえに他と比べて正確な理解をされない可能性あり
+
+- 読み取りトークン数がxmlで20倍、画像だとさらに大きいかも？
+- XMLで読ませても自由度の高さゆえに他と比べて正確な理解をされない可能性あり
 
 <!--
 通常の画像表示
@@ -64,6 +65,8 @@ PlantUML.com経由で画像化・表示は可能
 通常のリンク
 [draw.ioでGithubファイルを開くリンク](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
 -->
+
+[![](sandbox.drawio.svg)](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
 
 ### Figma
 
