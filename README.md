@@ -26,6 +26,7 @@ graph TD;
 ```
 
 
+
 ### plantUML
 
 cli (docker等) での変換が必要。
@@ -50,6 +51,7 @@ PlantUML.com経由で画像化・表示は可能
 ![PlantUML.com経由で画像化は可能](https://www.plantuml.com/plantuml/svg/SoWkIImgAStDuOhMYbNGrRLJ22v9B4arv89GO16W38nhfL2IaLci04I92iKbHPbvwLXayl9BCbABOF8m1J2ZZRWW5DneXzIy5A030000)
 
 
+
 ### draw.io
 
 他2種と比べて自由度が非常に高い。
@@ -66,7 +68,10 @@ PlantUML.com経由で画像化・表示は可能
 [draw.ioでGithubファイルを開くリンク](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
 -->
 
+<!-- 画像表示 + draw.ioでGithub上のファイルを開くリンク(要 各自での認証連携) -->
 [![](sandbox.drawio.svg)](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
+
+
 
 ### Figma
 
@@ -74,5 +79,4 @@ Embed Kitでmarkdownへの埋め込みができるらしい。
 ただし、これをやるとPDF化はブラウザでやることになる。
 
 
-<!-- 画像表示 + draw.ioでGithub上のファイルを開くリンク(要 各自での認証連携) -->
-[![](sandbox.drawio.svg)](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
+
