@@ -32,5 +32,5 @@ State2 --> [*]
 @enduml
 ```
 
-PlantUML.com経由で画像化は可能
+PlantUML.com経由で画像化は可能  
 ![PlantUML.com経由で画像化は可能](https://www.plantuml.com/plantuml/svg/SoWkIImgAStDuOhMYbNGrRLJ22v9B4arv89GO16W38nhfL2IaLci04I92iKbHPbvwLXayl9BCbABOF8m1J2ZZRWW5DneXzIy5A030000)
