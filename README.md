@@ -39,19 +39,13 @@ PlantUML.com経由で画像化は可能
 
 ## draw.io
 
-### git管理課のファイルをロード
-
+<!--
+通常の画像表示
 ![](sandbox.drawio.svg)
 
+通常のリンク
+[draw.ioでGithubファイルを開くリンク](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
+-->
 
-### draw.io経由でロード(現在機能していない)
-
-https://zenn.dev/bigwheel/articles/b56feed09a3732
-
+<!-- 画像表示 + draw.ioでGithub上のファイルを開くリンク(要 各自での認証連携) -->
 [![](sandbox.drawio.svg)](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
-
-[draw.ioリンク](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg#%7B%22pageId%22%3A%22qb4v2cUt2ur6bKFO8C9D%22%7D)
-
-### Embed a self-editing SVG image in GitHub markdown
-
-sandbox.drawio.svg
