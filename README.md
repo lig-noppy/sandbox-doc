@@ -29,7 +29,7 @@ graph TD;
 
 ### plantUML
 
-cli (docker等) での変換が必要。  
+CLI (docker等) での変換が必要。  
 Mermaid.jsと比べて表現力が高く、大きなファイルも生成可能。  
 ただし、markdown仕様書をAIに読ませる際に、plantumlをどう読ませるかの工夫が必要。
 
