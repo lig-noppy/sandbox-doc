@@ -29,8 +29,8 @@ graph TD;
 
 ### plantUML
 
-cli (docker等) での変換が必要。
-Mermaid.jsと比べて表現力が高く、大きなファイルも生成可能。
+cli (docker等) での変換が必要。  
+Mermaid.jsと比べて表現力が高く、大きなファイルも生成可能。  
 ただし、markdown仕様書をAIに読ませる際に、plantumlをどう読ませるかの工夫が必要。
 
 ```plantuml
@@ -55,7 +55,7 @@ PlantUML.com経由で画像化・表示は可能
 
 ### draw.io
 
-他2種と比べて自由度が非常に高い。
+他2種と比べて自由度が非常に高い。  
 ⚠️Mermaid.js, PlantUMLと比べるとAIとの相性(特に読み取り)は格段に落ちる(と思う)
 
 - 読み取りトークン数がxmlで20倍、画像だとさらに大きいかも？
@@ -76,7 +76,7 @@ PlantUML.com経由で画像化・表示は可能
 
 ### Figma
 
-Embed Kitでmarkdownへの埋め込みができるらしい。
+Embed Kitでmarkdownへの埋め込みができるらしい。  
 ただし、これをやるとPDF化はブラウザでやることになる。
 
 
