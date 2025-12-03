@@ -70,7 +70,7 @@ PlantUML.com経由で画像化・表示は可能
 -->
 
 <!-- 画像表示 + draw.ioでGithub上のファイルを開くリンク(要 各自での認証連携) -->
-[![](sandbox.drawio.svg)](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fdoc%2Fsandbox.drawio.svg)
+[![](sandbox.drawio.svg)](https://app.diagrams.net/#Hlig-noppy%2Fsandbox-doc%2Fmain%2Fsandbox.drawio.svg)
 
 
 
